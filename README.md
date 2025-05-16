@@ -3,7 +3,7 @@
     <h3>Universidad Peruana de Ciencias Aplicadas</h3>
     <img src="https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png" alt="Logo UPC" width="150">
     <h3>Carrera de Ciencias de la Computación</h3>
-    <h3>2024 - 2</h3>
+    <h3>2025 - 1</h3>
     <h3>📚 Curso: Teoría de Compiladores</h3>
     <h3>Sección: CC61</h3>
     <h3>Docente:Luis Martin Canaval Sanchez
