@@ -1,4 +1,4 @@
-grammar HaploRust;
+grammar EasyRust;
 
 // Punto de entrada
 program: statement+ EOF;
