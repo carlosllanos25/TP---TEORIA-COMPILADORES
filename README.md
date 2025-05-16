@@ -6,7 +6,9 @@
     <h3>2024 - 2</h3>
     <h3>📚 Curso: Teoría de Compiladores</h3>
     <h3>Sección: CC61</h3>
-    <h3>Docente:</h3>
+    <h3>Docente:Luis Martin Canaval Sanchez
+
+</h3>
 </div>
 
 # 🦀 EasyRust
