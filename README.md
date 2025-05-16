@@ -9,14 +9,13 @@
     <h3>Docente: Jorge Eduardo Diaz Suarez</h3>
 </div>
 
-# 🦀 HaploRust
+# 🦀 EasyRust
 
 | Código | Apellidos y Nombres |
 | ------ | ------ |
-| U202118258 | Alvarez Orellana, Iam Anthony Marcelo |
-| U20211b693 | Fuentes Rivera Onofre, Marco Antonio |
-| U202110764 | Luis Lazaro, Daniel Orlando |
-| U20191e742 | Vivas Alejandro, Renato Guillermo |
+| U20201B124 | Larios Mellado, Josafat |
+| U202019115 | Llanos Llamoca, Carlos Daniel |
+| U202110764 | Luis Lazaro, Daniel Orlando
 
 # 🎯 Objetivos del Proyecto
 * Analizar la sintaxis actual de Rust para identificar las áreas de complejidad que dificultan su adopción por parte de programadores novatos y aquellos provenientes de lenguajes tradicionales como Python, JavaScript o C++.
