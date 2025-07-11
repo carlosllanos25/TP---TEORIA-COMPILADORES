@@ -1,0 +1,61 @@
+// 1. Declaración de Variable
+let a : int = 5;
+let b : float = 3.14;
+let message : string = "Hola, SimpleRust!";
+
+// 2. Asignación de Variable
+a = 10;
+message = "Nuevo mensaje";
+
+
+f saludo(nombre : string) : void {
+    print("Hola, " + nombre);
+}
+
+f suma(a : int, b : int) : int {
+    let resultado : int = a + b;
+    return resultado;
+}
+
+// 4. Llamada a Función
+let resultado : int = suma(3, 4);
+saludo("SimpleRust");
+
+// 5. Sentencia de Impresión
+print("Mensaje de prueba");
+print(a + b);
+
+
+// 7. Sentencia If
+if a == 5 {
+    print("a es igual a 5");
+} else {
+    print("a no es igual a 5");
+}
+
+// 9. Expresiones Matemáticas y Booleanas
+let resultado : int = (5 + 3) * 2;
+let isEqual : bool = (a == b);
+let isNotEqual : bool = (a != b);
+
+// 10. Operador Ternario
+let resultado: int = (a > b) ? a : b;
+let mensaje: string = (condicion) ? "Sí" : "No";
+
+// 11. Declaración y acceso de una Tupla
+let tupla: (int, string, float) = (42, "Hola", 3.14);
+let primer_valor: int = tupla[0];
+let primer_valor: int = tupla[1];
+
+// 12. Bucle while Simplificado
+while contador < 5 {
+    print(contador);
+    contador = contador + 1;
+}
+
+// 13. Declarar un match
+match numero {
+    1 -> print("El número es uno");
+    2 -> print("El número es dos");
+    _ -> print("No hay ese número");
+}
